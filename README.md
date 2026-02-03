@@ -19,7 +19,7 @@ The assessment identifies key vulnerabilities related to authentication, firewal
 - Security policy enforcement
 
 ## Project Files
-- **risk-assessment.md** – Detailed risk assessment and network hardening recommendations
+- **risk-assessment.md**. Detailed risk assessment and network hardening recommendations
 
 Prepared by: Sambou Kamissoko  
 LinkedIn: https://www.linkedin.com/in/sambouk/
